@@ -1,16 +1,90 @@
-## Hi there 👋
+# Hi there! 👋 I'm Tommaso Rezzani
 
-<!--
-**TommasoRezzani/TommasoRezzani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate** from Università Bicocca  
+🎮 **Gaming Enthusiast** & **Editor-in-Chief** at [Hynerd](https://www.hynerd.it/autore/rezzi)  
+💻 **Aspiring Game Developer** & **Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer with a strong foundation in computer science and a deep love for gaming. As Editor-in-Chief at Hynerd, I combine technical expertise with content creation, bringing unique perspectives to both development and gaming culture.
+
+- 🔭 Currently working on: Personal game development projects
+- 🌱 Learning: Advanced game engines and modern web technologies
+- 🎯 Goal: Breaking into the game development industry
+- ⚡ Fun fact: I write about games by day and code them by night!
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Learning in Progress
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+---
+
+## 🎮 Featured Projects
+
+### 🏫 [University Projects](https://github.com/TommasoRezzani/University-Projects)
+A collection of academic projects showcasing my learning journey through Computer Science
+- **Technologies:** Java, Python, Web Technologies
+- **Highlights:** Data structures, algorithms, web development, and more
+
+*More projects coming soon! Currently organizing and documenting my work.*
+
+---
+
+## 📝 Latest from Hynerd
+
+As Editor-in-Chief at [Hynerd](https://www.hynerd.it/autore/rezzi), I regularly write about:
+- 🎮 Game reviews and industry analysis
+- 🚀 Gaming technology trends
+- 📱 Various games coverage, from PC to Mobile gaming
+- ⛩️ Anime series and related news
+
+Check out my latest articles on the site!
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TommasoRezzani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TommasoRezzani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/tommaso-rezzani)
+- 🦊 **GitLab:** [@t.rezzani](https://gitlab.com/t.rezzani)
+- 🎮 **Hynerd:** [Read my articles](https://www.hynerd.it/autore/rezzi)
+- 📸 **Instagram:** [@og_rezza](https://www.instagram.com/og_rezza)
+- 📧 **Email:** [tommasorezzani.wr@gmail.com]
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=TommasoRezzani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+---
+
+*"Positive person with strong initiative and adaptability - ready to bring fresh perspectives to game development!"*
