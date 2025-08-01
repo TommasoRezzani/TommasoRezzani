@@ -64,7 +64,7 @@ Check out my latest articles on the site!
 
 ## 🤝 Let's Connect!
 
-- 💼 **LinkedIn:** [Connect with me]([https://linkedin.com/in/tommaso-rezzani](https://www.linkedin.com/in/tommaso-rezzani-6a29b034b/?trk=public_profile-settings_edit-profile-content))
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/tommaso-rezzani-6a29b034b/?trk=public_profile-settings_edit-profile-content))
 - 🦊 **GitLab:** [@t.rezzani](https://gitlab.com/t.rezzani)
 - 🎮 **Hynerd:** [Read my articles](https://www.hynerd.it/autore/rezzi)
 - 📸 **Instagram:** [@og_rezza](https://www.instagram.com/og_rezza)
