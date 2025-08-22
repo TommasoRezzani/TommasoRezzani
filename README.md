@@ -51,7 +51,7 @@ A collection of academic projects showcasing my learning journey through Compute
 A collection of all the codes, assets, sound and other elements related to all the games i worked on
 - **Technologies:** Godot, GDScript
 
-### 🎮 [Game Released]()
+### 🎮 [Released Games](https://github.com/TommasoRezzani/Released-Games/blob/main/README.md)
 Here you can find all the games i created or worked on and their launcher to try them!
 
 *More projects coming soon! Currently organizing and documenting my work.*
@@ -76,6 +76,7 @@ Check out my latest articles on the site!
 - 🦊 **GitLab:** [@t.rezzani](https://gitlab.com/t.rezzani)
 - 🎮 **Hynerd:** [Read my articles](https://www.hynerd.it/autore/rezzi)
 - 📸 **Instagram:** [@og_rezza](https://www.instagram.com/og_rezza)
+- 🌳 **Linktree:** [TommasoRezzani](https://linktr.ee/TommasoRezzani)
 - 📧 **Email:** [tommasorezzani.wr@gmail.com]
 
 ---
