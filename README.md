@@ -47,7 +47,7 @@ A collection of academic projects showcasing my learning journey through Compute
 - **Technologies:** Java, Python, Web Technologies
 - **Highlights:** Data structures, algorithms, web development, and more
 
-### 🖥️ [Game-Design-and-Development](https://github.com/TommasoRezzani/Game-Design-and-Development)
+### 🖥️ [Game Design & Development](https://github.com/TommasoRezzani/Game-Design-and-Development)
 A collection of all the codes, assets, sound and other elements related to all the games i worked on
 - **Technologies:** Godot, GDScript
 
