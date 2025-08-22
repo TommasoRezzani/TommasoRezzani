@@ -40,12 +40,19 @@ I'm a passionate developer with a strong foundation in computer science and a de
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ---
 
-## 🎮 Featured Projects
+## Featured Projects
 
 ### 🏫 [University Projects](https://github.com/TommasoRezzani/University-Projects)
 A collection of academic projects showcasing my learning journey through Computer Science
 - **Technologies:** Java, Python, Web Technologies
 - **Highlights:** Data structures, algorithms, web development, and more
+
+### 🖥️ [Game-Design-and-Development](https://github.com/TommasoRezzani/Game-Design-and-Development)
+A collection of all the codes, assets, sound and other elements related to all the games i worked on
+- **Technologies:** Godot, GDScript
+
+### 🎮 [Game Released]()
+Here you can find all the games i created or worked on and their launcher to try them!
 
 *More projects coming soon! Currently organizing and documenting my work.*
 
