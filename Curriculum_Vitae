@@ -1,0 +1,224 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{graphicx} % Per includere la foto profilo
+\input{glyphtounicode}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    % Uncomment and modify the next line to include profile picture
+    \includegraphics[width=3cm,height=3cm,clip,keepaspectratio]{profile.jpg} \\ \vspace{5pt}
+    \textbf{\Huge \scshape Tommaso Rezzani} \\ \vspace{1pt}
+    \small + 39 3701163103 $|$ \href{mailto:tommasorezzani.wr@gmail.com}{\underline{tommasorezzani.wr@gmail.com}} \\
+    Milano, Italia $|$ 
+    \href{https://www.linkedin.com/in/tommaso-rezzani-6a29b034b/?trk=public\_profile-settings\_edit-profile-content}{\underline{LinkedIn}} $|$
+    \href{https://github.com/TommasoRezzani}{\underline{GitHub}} $|$
+    \href{https://www.hynerd.it/autore/rezzi}{\underline{HyNerd Portfolio}}
+\end{center}
+
+%----------SUMMARY----------
+\section{Summary}
+\small{Computer Science graduate with hands-on gaming industry experience as Head Editor at HyNerd.it's videogame section. Combines strong technical programming skills (Java, C++, TypeScript) with proven editorial leadership, content strategy, and deep gaming knowledge. Currently developing personal game projects while managing editorial teams and creating engaging gaming content for online audiences.}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Università degli Studi Milano - Bicocca}{Milano, Italy}
+      {Bachelor's Degree in Computer Science}{Sep. 2020 -- Jul. 2025}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Head Editor}{Jan. 2024 -- Present}
+      {Hynerd.it}{Milano, Italy}
+      \resumeItemListStart
+        \resumeItem{Lead editorial team and content strategy for gaming section of established online publication}
+        \resumeItem{Manage editorial workflow and coordinate content production with team of writers}
+        \resumeItem{Create and execute comprehensive editorial calendars covering industry news, reviews, and commercial content}
+        \resumeItem{Write in-depth gaming content including reviews, industry analysis, and news coverage}
+        \resumeItem{Review and edit all gaming articles ensuring quality standards and editorial consistency}
+        \resumeItem{Demonstrate deep understanding of gaming market trends and player preferences}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Event Support Specialist}{Sep. 2024}
+      {Fashion Tree \& Gorunway - Milano Fashion Week 2024}{Milano, Italy}
+      \resumeItemListStart
+        \resumeItem{Managed critical logistics operations including equipment coordination between photographers and venue}
+        \resumeItem{Ensured seamless transitions between fashion shows through efficient resource management}
+        \resumeItem{Delivered reliable support under high-pressure conditions with time-sensitive deadlines}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Client Relations \& Event Assistant}{Apr. 2024}
+      {Funny Witch - Milano Design Week 2024}{Milano, Italy}
+      \resumeItemListStart
+        \resumeItem{Provided personalized hospitality services for international clients (Brazilian delegation)}
+        \resumeItem{Managed front desk operations during high-profile design presentations}
+        \resumeItem{Delivered excellent customer service in multicultural, professional environment}
+        \resumeItem{Demonstrated adaptability working with diverse international clientele}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Sales Assistant}{Jan. 2019 -- Feb. 2019}
+      {KBM Consultants}{London, England}
+      \resumeItemListStart
+        \resumeItem{Provided customer service in international, multicultural environment}
+        \resumeItem{Developed cross-cultural communication skills working with diverse clientele}
+        \resumeItem{Demonstrated adaptability living and working in foreign country}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{Turn-Based Strategy RPG} $|$ \emph{Godot, Game Design, Team Collaboration}}{Feb. 2024 -- Present}
+          \resumeItemListStart
+            \resumeItem{Serving as Game Designer in collaborative development team using Godot engine}
+            \resumeItem{Created comprehensive character class system with balanced gameplay mechanics}
+            \resumeItem{Developed elemental damage system with resistance mechanics and interactive relationships}
+            \resumeItem{Collaborated with team members to integrate design elements into functional game systems}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java (Advanced), C++, TypeScript, SQL, HTML/CSS} \\
+     \textbf{Game Development}{: Godot, Obsidian (Learning), Game Design, Character Creation, Class Systems} \\
+     \textbf{Professional Skills}{: Editorial Leadership, Team Management, Content Strategy, Editorial Planning} \\
+     \textbf{Tools \& Technologies}{: Git, Gaming Industry Knowledge, Cross-cultural Communication}
+    }}
+ \end{itemize}
+
+%-----------LANGUAGES-----------
+\section{Languages}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Italian}{: Native (100\%)} \\
+     \textbf{English}{: Advanced (80\%)} \\
+     \textbf{Spanish}{: Intermediate (40\%)}
+    }}
+ \end{itemize}
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Advanced English Language Certification}{Completed}
+      {Alpha College of English}{Dublin, Ireland}
+    \resumeSubheading
+      {Robotics \& Arduino Development Course}{Completed}
+      {Istituto NUMEN | FabLab Milano}{Milano, Italy}
+  \resumeSubHeadingListEnd
+
+%-----------INTERESTS-----------
+\section*{Interests}
+\begin{itemize}
+    \item Video games and technology
+    \item Gym, physical activities, and martial arts (MMA)
+    \item Cooking and gastronomy
+    \item Music
+\end{itemize}
+
+%-------------------------------------------
+\end{document}
