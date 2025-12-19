@@ -15,7 +15,7 @@ I'm a passionate developer with a strong foundation in computer science and a de
 - 🎯 Goal: Breaking into the game development industry
 - ⚡ Fun fact: I write about games by day and code them by night!
 
-### 📜 [Curriculum Vitae](https://github.com/TommasoRezzani/TommasoRezzani/blob/main/Tommaso_Rezzani_CV.pdf)
+### 📜 [Curriculum Vitae](https://github.com/TommasoRezzani/TommasoRezzani/blob/main/Curriculum_Vitae.pdf)
 ---
 
 ## 🛠️ Tech Stack
