@@ -101,7 +101,7 @@
     % Uncomment and modify the next line to include profile picture
     \includegraphics[width=3cm,height=3cm,clip,keepaspectratio]{profile.jpg} \\ \vspace{5pt}
     \textbf{\Huge \scshape Tommaso Rezzani} \\ \vspace{1pt}
-    \small + 39 3701163103 $|$ \href{mailto:tommasorezzani.wr@gmail.com}{\underline{tommasorezzani.wr@gmail.com}} \\
+    \small +39 3701163103 $|$ \href{mailto:tommasorezzani.wr@gmail.com}{\underline{tommasorezzani.wr@gmail.com}} \\
     Milano, Italia $|$ 
     \href{https://www.linkedin.com/in/tommaso-rezzani-6a29b034b/?trk=public\_profile-settings\_edit-profile-content}{\underline{LinkedIn}} $|$
     \href{https://github.com/TommasoRezzani}{\underline{GitHub}} $|$
@@ -110,7 +110,7 @@
 
 %----------SUMMARY----------
 \section{Summary}
-\small{Computer Science graduate with hands-on gaming industry experience as Head Editor at HyNerd.it's videogame section. Combines strong technical programming skills (Java, C++, TypeScript) with proven editorial leadership, content strategy, and deep gaming knowledge. Currently developing personal game projects while managing editorial teams and creating engaging gaming content for online audiences.}
+\small{Computer Science graduate with hands-on gaming industry experience thanks to a Master's Degree in Computer Game Development and as Head Editor at HyNerd.it's videogame section. Combines strong technical programming and engine skills with proven editorial leadership, content strategy, and deep gaming knowledge. Currently developing game projects while managing editorial teams and creating engaging content.}
 
 %-----------EDUCATION-----------
 \section{Education}
@@ -118,15 +118,32 @@
     \resumeSubheading
       {Università degli Studi Milano - Bicocca}{Milano, Italy}
       {Bachelor's Degree in Computer Science}{Sep. 2020 -- Jul. 2025}
+    \resumeItem{}
+    \resumeSubheading
+      {Università degli Studi di Verona - UNIVR}{Verona, Italy}
+      {Master's Degree in Computer Game Development}{Nov. 2025 -- Present}
   \resumeSubHeadingListEnd
-
 %-----------EXPERIENCE-----------
 \section{Experience}
   \resumeSubHeadingListStart
 
     \resumeSubheading
+      {IT Assistant \& Repair Specialist}{Sep. 2025 -- Present}
+      {PCBuster Wagner}{Milan, Italy}
+      \resumeItemListStart
+        \resumeItem{Provide comprehensive technical assistance to customers in-store and on-site for software and hardware issues}
+        \resumeItem{Perform advanced hardware repairs including component replacements (screens, batteries) and motherboard soldering}
+        \resumeItem{Diagnose and resolve diverse software problems including OS issues, driver installations, and malware removal}
+        \resumeItem{Design, assemble, and configure custom computer systems for gaming, video editing, and general-purpose use}
+        \resumeItem{Implement professional cable management techniques ensuring optimal airflow and system maintainability}
+        \resumeItem{Deliver multilingual customer support, effectively assisting international clients across language barriers}
+      \resumeItemListEnd
+
+    \resumeItem{}
+        
+    \resumeSubheading
       {Head Editor}{Jan. 2024 -- Present}
-      {Hynerd.it}{Milano, Italy}
+      {Hynerd.it}{Remote, Italy}
       \resumeItemListStart
         \resumeItem{Lead editorial team and content strategy for gaming section of established online publication}
         \resumeItem{Manage editorial workflow and coordinate content production with team of writers}
@@ -135,6 +152,8 @@
         \resumeItem{Review and edit all gaming articles ensuring quality standards and editorial consistency}
         \resumeItem{Demonstrate deep understanding of gaming market trends and player preferences}
       \resumeItemListEnd
+
+    \resumeItem{}
 
     \resumeSubheading
       {Event Support Specialist}{Sep. 2024}
@@ -145,6 +164,8 @@
         \resumeItem{Delivered reliable support under high-pressure conditions with time-sensitive deadlines}
       \resumeItemListEnd
 
+    \resumeItem{}
+    
     \resumeSubheading
       {Client Relations \& Event Assistant}{Apr. 2024}
       {Funny Witch - Milano Design Week 2024}{Milano, Italy}
@@ -155,6 +176,8 @@
         \resumeItem{Demonstrated adaptability working with diverse international clientele}
       \resumeItemListEnd
 
+    \resumeItem{}
+    
     \resumeSubheading
       {Sales Assistant}{Jan. 2019 -- Feb. 2019}
       {KBM Consultants}{London, England}
@@ -183,8 +206,8 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Java (Advanced), C++, TypeScript, SQL, HTML/CSS} \\
-     \textbf{Game Development}{: Godot, Obsidian (Learning), Game Design, Character Creation, Class Systems} \\
+     \textbf{Languages}{: Java (Advanced), C++, TypeScript, SQL} \\
+     \textbf{Game Development}{: Godot, Obsidian, Game Design, Character Creation, Class Systems, Unreal Engine, Unity} \\
      \textbf{Professional Skills}{: Editorial Leadership, Team Management, Content Strategy, Editorial Planning} \\
      \textbf{Tools \& Technologies}{: Git, Gaming Industry Knowledge, Cross-cultural Communication}
     }}
