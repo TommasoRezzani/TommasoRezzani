@@ -36,27 +36,10 @@ I'm a passionate developer with a strong foundation in computer science and a de
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
----
-
-## Featured Projects
-
-### 🏫 [University Projects](https://github.com/TommasoRezzani/University-Projects)
-A collection of academic projects showcasing my learning journey through Computer Science
-- **Technologies:** Java, Python, Web Technologies
-- **Highlights:** Data structures, algorithms, web development, and more
-
-### 🖥️ [Game Design & Development](https://github.com/TommasoRezzani/Game-Design-and-Development)
-A collection of all the codes, assets, sound and other elements related to all the games i worked on
-- **Technologies:** Godot, GDScript
-
-### 🎮 [Released Games](https://github.com/TommasoRezzani/Released-Games/blob/main/README.md)
-Here you can find all the games i created or worked on and their launcher to try them!
-
-*More projects coming soon! Currently organizing and documenting my work.*
 
 ---
 
-## 📝 My Work fom Hynerd
+## 📝 My Work for Hynerd
 
 When i wass Editor-in-Chief at [Hynerd](https://www.hynerd.it/autore/rezzi), I regularly wrote about:
 - 🎮 Game reviews and industry analysis
