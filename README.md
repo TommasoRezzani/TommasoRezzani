@@ -52,7 +52,6 @@ When i wass Editor-in-Chief at [Hynerd](https://www.hynerd.it/autore/rezzi), I r
 ## 🤝 Let's Connect!
 
 - 💼 **LinkedIn:** [Connect with me]([linkedin.com/in/tommaso-rezzani-6a29b034b](https://www.linkedin.com/in/tommaso-rezzani-6a29b034b/?trk=public_profile-settings_edit-profile-content))
-- 🦊 **GitLab:** [@t.rezzani](https://gitlab.com/t.rezzani)
 - 📸 **Instagram:** [@og_rezza](https://www.instagram.com/og_rezza)
 - 🌳 **Linktree:** [TommasoRezzani](https://linktr.ee/TommasoRezzani)
 - 📧 **Email:** [tommasorezzani.wr@gmail.com]
