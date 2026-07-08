@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Tommaso Rezzani
 
 🎓 **Computer Science Graduate** from Università Bicocca  
-🎮 **Gaming Enthusiast** & **Editor-in-Chief** at [Hynerd](https://www.hynerd.it/autore/rezzi)  
-💻 **Aspiring Game Developer** & **Software Engineer**
+🎮 **Gaming Enthusiast** & **Ex Editor-in-Chief** at [Hynerd](https://www.hynerd.it/autore/rezzi)  
+💻 **Aspiring Game Designer & Developer** 
 
 ---
 
@@ -10,10 +10,9 @@
 
 I'm a passionate developer with a strong foundation in computer science and a deep love for gaming. As Editor-in-Chief at Hynerd, I combine technical expertise with content creation, bringing unique perspectives to both development and gaming culture.
 
-- 🔭 Currently working on: Personal game development projects
-- 🌱 Learning: Advanced game engines and modern web technologies
-- 🎯 Goal: Breaking into the game development industry
-- ⚡ Fun fact: I write about games by day and code them by night!
+- 🔭 Currently working on: Master in Computer Game Development at **Università degli Studi di Verona**
+- 🌱 Learning: Advanced game engines and game develop
+- 🎯 Goal: Breaking into the game industry
 
 ### 📜 [Curriculum Vitae](https://github.com/TommasoRezzani/TommasoRezzani/blob/main/Curriculum_Vitae.pdf)
 ---
@@ -24,6 +23,7 @@ I'm a passionate developer with a strong foundation in computer science and a de
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -56,15 +56,13 @@ Here you can find all the games i created or worked on and their launcher to try
 
 ---
 
-## 📝 Latest from Hynerd
+## 📝 My Work fom Hynerd
 
-As Editor-in-Chief at [Hynerd](https://www.hynerd.it/autore/rezzi), I regularly write about:
+When i wass Editor-in-Chief at [Hynerd](https://www.hynerd.it/autore/rezzi), I regularly wrote about:
 - 🎮 Game reviews and industry analysis
 - 🚀 Gaming technology trends
 - 📱 Various games coverage, from PC to Mobile gaming
 - ⛩️ Anime series and related news
-
-Check out my latest articles on the site!
 
 ---
 
@@ -72,7 +70,6 @@ Check out my latest articles on the site!
 
 - 💼 **LinkedIn:** [Connect with me]([linkedin.com/in/tommaso-rezzani-6a29b034b](https://www.linkedin.com/in/tommaso-rezzani-6a29b034b/?trk=public_profile-settings_edit-profile-content))
 - 🦊 **GitLab:** [@t.rezzani](https://gitlab.com/t.rezzani)
-- 🎮 **Hynerd:** [Read my articles](https://www.hynerd.it/autore/rezzi)
 - 📸 **Instagram:** [@og_rezza](https://www.instagram.com/og_rezza)
 - 🌳 **Linktree:** [TommasoRezzani](https://linktr.ee/TommasoRezzani)
 - 📧 **Email:** [tommasorezzani.wr@gmail.com]
